@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\дз\bin\Debug\дз.exe.config
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\дз\bin\Debug\дз.exe
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\дз\bin\Debug\дз.pdb
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\дз\obj\Debug\дз.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\дз\obj\Debug\дз.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\дз\obj\Debug\дз.exe
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\дз\obj\Debug\дз.pdb

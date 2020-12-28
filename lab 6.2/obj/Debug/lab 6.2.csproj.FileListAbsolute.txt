@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\lab 6.2\bin\Debug\lab 6.2.exe.config
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\lab 6.2\bin\Debug\lab 6.2.exe
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\lab 6.2\bin\Debug\lab 6.2.pdb
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\lab 6.2\obj\Debug\lab 6.2.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\lab 6.2\obj\Debug\lab 6.2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\lab 6.2\obj\Debug\lab 6.2.exe
+C:\Users\Xiaomi\Desktop\шарага\прога и всё такое\3 сем\интернет-технологии\lab 6.2\obj\Debug\lab 6.2.pdb
